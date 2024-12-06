@@ -10,4 +10,6 @@ This is my practice notebook.
 ```{r}
 plot(mtcars$mpg, mtcars$wt)
 ```
+# Excess info
 
+This is excess info for my practice code.
